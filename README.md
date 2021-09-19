@@ -25,9 +25,8 @@
  <img align="left" src="https://user-images.githubusercontent.com/69259809/133924705-3a26d3d8-faf5-46bd-8319-29f907fefc44.gif" width="70" height="70"/>
 </a>
 <a href="https://www.facebook.com/orensrauch">
- <img align="left" src="https://user-images.githubusercontent.com/69259809/133924705-3a26d3d8-faf5-46bd-8319-29f907fefc44.gif" width="70" height="70"/>
+ <img align="left" src="https://user-images.githubusercontent.com/69259809/133924773-7867a9db-ebf0-4729-b60a-ca00e1328cea.gif" width="70" height="70"/>
 </a>
-
 
 
 
