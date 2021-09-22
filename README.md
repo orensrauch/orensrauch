@@ -1,6 +1,21 @@
 ### Hi there 👋
 
- ### My Beast Specs 
+<details>
+ <summary>:zap: Github Stats</summary>
+ <img
+align="left"
+alt="orensrauch Github Stats"
+src="https://github-readme-stats-orensrauch.vercel.app/api?username=orensrauch&show_icons=true&hide_border=true" />
+
+ 
+</details>
+
+
+</br>
+
+<details>
+ <summary>:zap: My Beast Specs</summary>
+
  <img align="right" src="https://user-images.githubusercontent.com/69259809/133923968-ce5332e2-6436-44fa-a1c5-6f7f42adf659.gif" width="270" height="270"/>
 
 - Motherboard: ASUS PRIME Z5690-A LGA1200
@@ -16,6 +31,10 @@
 - HD: Corsair Force MP510 960GB M.2
 
 - Power Supply: CoolerMaster V750 GOLD V2 750W
+ 
+</details>
+
+
 
 ### Find me on
 <a href="https://www.linkedin.com/in/orensr/">
