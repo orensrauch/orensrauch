@@ -1,17 +1,14 @@
 ### Hi there 👋
 
 <details>
- <summary>:zap: Github Stats</summary>
+ <summary>:zap:My Github Stats</summary>
  <img
 align="left"
-alt="orensrauch Github Stats"
-src="https://github-readme-stats-orensrauch.vercel.app/api?username=orensrauch&show_icons=true&hide_border=true" />
-
- 
+alt="My Github Stats"
+src="https://github-readme-stats-iota-nine-37.vercel.app/api?username=orensrauch&show_icons=true&hide_border=true" />
 </details>
 
-
-</br>
+<br>
 
 <details>
  <summary>:zap: My Beast Specs</summary>
@@ -34,7 +31,11 @@ src="https://github-readme-stats-orensrauch.vercel.app/api?username=orensrauch&s
  
 </details>
 
+<br>
 
+![](https://github-readme-stats-iota-nine-37.vercel.app/api/top-langs/?username=orensrauch&hide=java&layout=compact)
+
+<!--START_SECTION:activity-->
 
 ### Find me on
 <a href="https://www.linkedin.com/in/orensr/">
