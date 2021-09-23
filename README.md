@@ -36,10 +36,9 @@ src="https://github-readme-stats-iota-nine-37.vercel.app/api?username=orensrauch
 ![](https://github-readme-stats-iota-nine-37.vercel.app/api/top-langs/?username=orensrauch&hide=java&layout=compact)
 
 ### Recent Activity
+
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/orensrauch/solveqa-expense-tracker/pull/8) in [orensrauch/solveqa-expense-tracker](https://github.com/orensrauch/solveqa-expense-tracker)
-2. 💪 Opened PR [#8](https://github.com/orensrauch/solveqa-expense-tracker/pull/8) in [orensrauch/solveqa-expense-tracker](https://github.com/orensrauch/solveqa-expense-tracker)
-<!--END_SECTION:activity-->
+
 
 ### Find me on
 <a href="https://www.linkedin.com/in/orensr/">
