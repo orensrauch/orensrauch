@@ -32,18 +32,17 @@ src="https://github-readme-stats-iota-nine-37.vercel.app/api?username=orensrauch
 </details>
 
 <br>
+<details>
+ <summary>:zap: My Recent Activity</summary>
+
+<!--START_SECTION:activity-->
+
+ 
+</details>
+
 
 ![](https://github-readme-stats-iota-nine-37.vercel.app/api/top-langs/?username=orensrauch&hide=java&layout=compact)
 
-### Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#9](https://github.com/orensrauch/solveqa-expense-tracker/issues/9) in [orensrauch/solveqa-expense-tracker](https://github.com/orensrauch/solveqa-expense-tracker)
-2. ❗️ Closed issue [#9](https://github.com/orensrauch/solveqa-expense-tracker/issues/9) in [orensrauch/solveqa-expense-tracker](https://github.com/orensrauch/solveqa-expense-tracker)
-3. 🗣 Commented on [#9](https://github.com/orensrauch/solveqa-expense-tracker/issues/9) in [orensrauch/solveqa-expense-tracker](https://github.com/orensrauch/solveqa-expense-tracker)
-4. 🎉 Merged PR [#8](https://github.com/orensrauch/solveqa-expense-tracker/pull/8) in [orensrauch/solveqa-expense-tracker](https://github.com/orensrauch/solveqa-expense-tracker)
-5. 💪 Opened PR [#8](https://github.com/orensrauch/solveqa-expense-tracker/pull/8) in [orensrauch/solveqa-expense-tracker](https://github.com/orensrauch/solveqa-expense-tracker)
-<!--END_SECTION:activity-->
 
 
 ### Find me on
