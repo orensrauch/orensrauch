@@ -50,9 +50,6 @@ src="https://github-readme-stats-iota-nine-37.vercel.app/api?username=orensrauch
 ![](https://github-readme-stats-iota-nine-37.vercel.app/api/top-langs/?username=orensrauch&hide=java&layout=compact)
 
 
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/oren1337.png" alt="TryHackMe"/>
-
 ### Find me on
 <a href="https://www.linkedin.com/in/orensr/">
  <img align="left" src="https://user-images.githubusercontent.com/69259809/133924564-992b1cdc-e2c6-4326-a843-b7869b844c63.gif" width="70" height="70"/>
